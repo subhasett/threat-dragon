@@ -25,9 +25,16 @@
               "angle": 0,
               "id": "7cd76548-3ecf-473c-a823-86924cc31566",
               "z": 1,
+              "hasOpenThreats": false,
               "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
                 "text": {
                   "text": "process 0"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             }
